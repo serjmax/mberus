@@ -1,0 +1,29 @@
+.mb__contacts__panel{
+	padding: 0;
+	background: $white;
+	border-color: $primary-color;
+}
+
+.mb__contacts__leftside{
+	background-color: $primary-color;
+	width: 150px;
+	height: 150px;
+	float: left;
+
+	img{
+		top: 21px;
+		left: 10px;
+		position: relative;
+	}
+}
+
+.mb__contacts__rightside{
+
+}
+
+#map-canvas {
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
